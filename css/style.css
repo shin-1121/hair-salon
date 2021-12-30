@@ -240,6 +240,11 @@ img {
     width: 100%;
     object-fit: cover;
 }
+@media screen and (max-width: 560px) { 
+    .swiper-slide > img{
+        height: 440px;
+    }
+}
 
 
 .main-visual {
@@ -1130,6 +1135,11 @@ iframe {
     height: 48vw;
 
 }
+@media screen and (max-width: 560px) { 
+    .first-visual{
+        height: 440px;
+    }
+}
 
 .first-visual-title {
     width: 100%;
@@ -1279,6 +1289,11 @@ iframe {
     object-fit: cover;
     height: 48vw;
 
+}
+@media screen and (max-width: 560px) { 
+    .contact-visual{
+        height: 440px;
+    }
 }
 
 
@@ -1454,6 +1469,11 @@ input[type="checkbox"] {
     padding-top: 46.5%;
 }
 
+@media screen and (max-width: 560px) { 
+    .blog-visual{
+        height: 440px;
+    }
+}
 
 .blog-visual-title {
     font-size: 90px;
