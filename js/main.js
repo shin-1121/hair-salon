@@ -49,7 +49,7 @@ var slider2 = new Swiper('.slider2', {
         },
         
         580: {
-            slidesPerView: 2,
+            slidesPerView: 1,
         
         },
         // 800px以上の場合  
